@@ -82,7 +82,7 @@ bill.
     'cold-coffee': 110,
     'cold-coffee-with-icecream': 130,
     'iced-cold-coffee': 120,
-}
+    }
 
 
      print(" water melon seasonal: rs100\npineapple-juice: rs100\nmix-fruite-juice: rs120\norange-juice: rs160\ncappucchino: " \
