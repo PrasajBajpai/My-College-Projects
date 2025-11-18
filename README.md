@@ -1,4 +1,4 @@
-# My-College-Projects
+#  Online Drink Order by MAYURI CAFÉ 
 
 Project Title: Online Drink Order by MAYURI CAFÉ 
 Chosen Domain: Retail & E-commerce 
